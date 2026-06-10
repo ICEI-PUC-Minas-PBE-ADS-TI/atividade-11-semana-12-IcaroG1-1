@@ -4,12 +4,12 @@ Nesta atividade, vamos trabalhar com uma API de mercado para montar uma interfac
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome: Icaro Gomes Ferreira
+- Matrícula: 917016
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - LISTA DE CARDS COM FILMES - AQUI >>
+![Página principal](img/image.png)
 
-<<  COLOQUE A IMAGEM - RESULTADO DE UMA PESQUISA - AQUI >>
+![Página de pesquisa](img/image1.png)
 
